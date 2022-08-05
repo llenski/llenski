@@ -1,11 +1,11 @@
-- 👋 Olá, meu nome é Leandro Lopes da Silva,  
-- 👀 Busco ampliar meus conhecimentos em Desenvolvimento de Sistemas de Informação 
-- 🌱 Atualmente trabalho coma as tecnologias C++, C#, Java, .Net Core, ASP.Net, Angular, Bancos de Dados relacionais : MS SQL e MySQL, 
-utilizando metodologia ágil, seguindo as boas práticas de programação, princícios S.O.L.I.D. e Clean Arhteture...
+- 👋 Hello, my name is Leandro Lopes da Silva,  
+- 👀 I seek to expand my knowledge in Application Building and Information Systems Development.
+- 🌱 Currently I work with C++, C#, Java, .Net Core, ASP.Net, Angular, Relational Databases: MS SQL and MySQL,
+using agile methodology, following good programming practices, S.O.L.I.D. and Clean Architecture...
 
 - 💞️ I’m looking to collaborate on ...
 
-Contato:
+Contact:
 - 📫 email: lenski05@gmail.com
 
 <!---
